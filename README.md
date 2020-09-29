@@ -1,9 +1,11 @@
 # wit_test
 
-*Explicação do Problema*
+# FizzBuzz
 
-**- Múltiplos de 3 substituído por Fizz**
-**- Múltiplos de 3 substituído por Buzz**
-**- Múltiplos de 3 e 5 substituído por FizzBuzz**
+*Explicação do Problema:*
+
+- Múltiplos de 3 substituído por Fizz
+- Múltiplos de 3 substituído por Buzz
+- Múltiplos de 3 e 5 substituído por FizzBuzz
 
 ## Installation
