@@ -1,8 +1,7 @@
 # wit_test
 
-**test kakak xxxxx xxxxxx
-xxxx
-xxx/n
-xxx
-xxx
-xxx**
+**Explicação do Problema**
+
+**- Múltiplos de 3 substituído por Fizz**
+**- Múltiplos de 3 substituído por Buzz**
+**- Múltiplos de 3 e 5 substituído por FizzBuzz**
